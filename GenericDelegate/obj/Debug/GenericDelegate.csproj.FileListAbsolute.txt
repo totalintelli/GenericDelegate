@@ -1,0 +1,6 @@
+E:\Projects\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+E:\Projects\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+E:\Projects\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+E:\Projects\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+E:\Projects\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+E:\Projects\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb
